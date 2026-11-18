@@ -3,19 +3,9 @@
   <img src="https://img.ge/i/blXfF49.png" width="100%" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Md+Ashikur+Rahman" alt="Typing SVG" />
 </p> -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1000&color=F838BD&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B,+I'm+Akash+Kumear+Biswas;Backend+Developer;React+%7C+Next.js+Developer;MERN+Stack+Learner;" alt="Typing SVG " />
-</p>
-
-
-
-
-
-
 ---
 
 # 💻 Backend Developer
@@ -39,7 +29,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 # 📍 Contact
 
-📍Mirpur-1, Dhaka, Bangladesh
+📍jashore, Dhaka, Bangladesh
 
 📧 akashbiswas504755@gmail.com
 
@@ -135,7 +125,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 Goals for 2027
 
 - ✅ Master Backend Developer
 - 🚀 Build Production Ready Applications
@@ -148,7 +138,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AKASHBISWAS2004&label=Visitors&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=arashikdev&label=Visitors&color=blueviolet&style=flat-square" />
 </p>
 
 ---
