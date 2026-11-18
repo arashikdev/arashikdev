@@ -55,7 +55,7 @@ const ashikurRahman = {
 - 🔐 Learning Authentication & Authorization using **Better Auth and JWT**
 - 📚 Improving Problem Solving Skills
 - 🎯 Goal: Become a Professional Software Engineer
-- 🌐 Visit My Portfolio: <a href="https://ashik-portfolio-steel.vercel.app/" target="_blank">Click Here</a>
+- 🌐 Visit My Portfolio: [Click Here](https://ashik-portfolio-steel.vercel.app/)
 ```
 
 # 📍 Contact
