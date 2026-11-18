@@ -81,7 +81,7 @@ const ashikurRahman = {
 
 <p align="left">
 
-<a href="https://github.com/AKASHBISWAS2004" target="_blank">
+<a href="https://github.com/arashikdev" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -89,19 +89,19 @@ const ashikurRahman = {
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://ashik-portfolio-steel.vercel.app/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
-<a href="https://codeforces.com/profile/Akashkumarbiswas" target="_blank">
+<a href="https://codeforces.com/profile/ashik56" target="_blank">
   <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" height="48" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://discord.com/users/1068069779975458877" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
-<a href="mailto:akashbiswas504755@gmail.com">
+<a href="mailto:mdashikur6398@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -120,7 +120,7 @@ const ashikurRahman = {
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASHBISWAS2004&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arashikdev&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
