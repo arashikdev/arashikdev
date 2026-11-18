@@ -18,6 +18,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 # 👨‍💻 About Me
 
+```
 const ashikurRahman = {
   pronouns: "he/him",
 
@@ -47,8 +48,7 @@ const ashikurRahman = {
   ],
 
   tools: [
-    "Git",
-    "GitHub",
+    "Git & GitHub",
     "VS Code",
     "Figma",
     "npm",
@@ -64,17 +64,15 @@ const ashikurRahman = {
 
   goals: "Become a Professional Full Stack Developer",
 
-  challenge:
-    "Learning, Building Projects and Improving Every Day",
+  challenge: "Learning, Building Projects and Improving Every Day",
 };
-
----
+```
 
 # 📍 Contact
 
 📍jashore, Dhaka, Bangladesh
 
-📧 akashbiswas504755@gmail.com
+📧mdashikur6398@gmail.com
 
 ---
 
