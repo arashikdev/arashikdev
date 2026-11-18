@@ -11,11 +11,11 @@
 </p> 
 
 
-# 💻 Backend Developer
+# 💻 Backend & Full Stack Developer
 
-### 👨‍💼 Junior Backend Developer
+### 👨‍💻 Aspiring Software Engineer
 
-Passionate about building modern, responsive, and user-friendly web applications using JavaScript technologies. I enjoy solving real-world problems, learning new technologies, and continuously improving my development skills.
+Passionate about building modern, scalable, and user-friendly web applications. Currently focusing on Backend and Full Stack Development using JavaScript technologies. I enjoy solving real-world problems, exploring new technologies, and continuously improving my programming and problem-solving skills.
 
 ---
 
@@ -45,6 +45,17 @@ const ashikurRahman = {
 
   challenge: "Learning, Building Projects and Improving Every Day",
 };
+```
+
+
+```
+- 🎓 B.Sc. in Computer Science & Engineering
+- 💻 Passionate about Backend & Full Stack Development
+- 🌱 Currently learning **Next.js, TypeScript & MongoDB**
+- 🔐 Learning Authentication & Authorization using **Better Auth and JWT**
+- 📚 Improving Problem Solving Skills
+- 🎯 Goal: Become a Professional Software Engineer
+- 🌐 Visit My Portfolio: [**Click Here**]([YOUR_PORTFOLIO_URL](https://ashik-portfolio-steel.vercel.app/))
 ```
 
 # 📍 Contact
