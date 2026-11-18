@@ -1,11 +1,11 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://img.ge/i/blXfF49.png" width="100%" />
+  <img src="" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Md+Ashikur+Rahman" alt="Typing SVG" />
-</p> -->
+</p> 
 
 
 # 💻 Backend Developer
@@ -18,12 +18,55 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 # 👨‍💻 About Me
 
-- 🎓 B.Sc. in Computer Science & Engineering
-- 💻 Passionate about Backend Developer
-- 🌱 Currently learning **Next.js, TypeScript & MongoDB**
-- 🔐  Learning Authentication & Authorization using Better Auth and JWT
-- 📚 Improving Problem Solving Skills
-- 🎯 Goal: Become a Professional Software Engineer
+const ashikurRahman = {
+  pronouns: "he/him",
+
+  education: "B.Sc. in Computer Science & Engineering (CSE)",
+
+  frontend: [
+    "HTML5",
+    "CSS3",
+    "JavaScript ES6+",
+    "TypeScript",
+    "React.js",
+    "Next.js",
+    "Tailwind CSS",
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "Better Auth",
+    "JWT",
+  ],
+
+  database: [
+    "MongoDB",
+    "MongoDB Atlas",
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma",
+    "npm",
+    "Vercel",
+  ],
+
+  currentFocus: [
+    "Learning TypeScript",
+    "Exploring Next.js App Router",
+    "Building Full Stack Applications",
+    "Improving Problem Solving Skills",
+  ],
+
+  goals: "Become a Professional Full Stack Developer",
+
+  challenge:
+    "Learning, Building Projects and Improving Every Day",
+};
 
 ---
 
@@ -157,7 +200,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 <p align="center">
 
-<a href="https://github.com/AKASHBISWAS2004">
+<a href="https://github.com/arashikdev">
 <img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
