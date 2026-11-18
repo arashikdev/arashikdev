@@ -18,42 +18,18 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 # 👨‍💻 About Me
 
-```
+```javascript
 const ashikurRahman = {
   pronouns: "he/him",
-
   education: "B.Sc. in Computer Science & Engineering (CSE)",
 
-  frontend: [
-    "HTML5",
-    "CSS3",
-    "JavaScript ES6+",
-    "TypeScript",
-    "React.js",
-    "Next.js",
-    "Tailwind CSS",
-  ],
+  frontend: ["HTML5", "CSS3", "JavaScript ES6+", "TypeScript", "React.js", "Next.js", "Tailwind CSS"],
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-    "Better Auth",
-    "JWT",
-  ],
+  backend: ["Node.js", "Express.js", "REST APIs", "Better Auth", "JWT"],
 
-  database: [
-    "MongoDB",
-    "MongoDB Atlas",
-  ],
+  database: ["MongoDB", "MongoDB Atlas"],
 
-  tools: [
-    "Git & GitHub",
-    "VS Code",
-    "Figma",
-    "npm",
-    "Vercel",
-  ],
+  tools: ["Git", "GitHub", "VS Code", "Figma", "npm", "Vercel"],
 
   currentFocus: [
     "Learning TypeScript",
